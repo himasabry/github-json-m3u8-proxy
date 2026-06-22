@@ -1,7 +1,7 @@
 {
-"/beIN%20MAX1.m3u8":
-"https://SOURCE1/index.m3u8",
+"/SUPER_TV_1.m3u8":
+"https://restream-app.hima-sabry2015.workers.dev/live/14855632920086.m3u8",
 
-"/beIN%20MAX2.m3u8":
-"https://SOURCE2/index.m3u8"
+"/SUPER_TV_2.m3u8":
+"https://restream-app.hima-sabry2015.workers.dev/live/14863707479574.m3u8"
 }
